@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/baekjoon.iml" filepath="$PROJECT_DIR$/baekjoon.iml" />
       <module fileurl="file://$PROJECT_DIR$/conditional_statement/conditional_statement.iml" filepath="$PROJECT_DIR$/conditional_statement/conditional_statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/in.output_FAO/in.output_FAO.iml" filepath="$PROJECT_DIR$/in.output_FAO/in.output_FAO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loop/loop.iml" filepath="$PROJECT_DIR$/loop/loop.iml" />
     </modules>
   </component>
 </project>
