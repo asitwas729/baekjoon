@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="441022a0-97b7-4ae2-a704-2749f69d537a" name="변경" comment="baejoon 3.1-3.4">
-      <change afterPath="$PROJECT_DIR$/loop/loop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/src/costco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/src/geometric_sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/src/multiplication_tables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/src/plus_calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/conditional_statement/dice_winnings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/loop/geometric_sequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/loop/multiplication_tables.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/loop/plus_calculator.class" afterDir="false" />
+    <list default="true" id="441022a0-97b7-4ae2-a704-2749f69d537a" name="변경" comment="baejoon #10699">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -115,7 +106,7 @@
       <workItem from="1671805278895" duration="595000" />
       <workItem from="1671874054856" duration="3589000" />
       <workItem from="1671877688346" duration="132000" />
-      <workItem from="1671877837084" duration="5945000" />
+      <workItem from="1671877837084" duration="11701000" />
     </task>
     <task id="LOCAL-00001" summary="baejoon 1.1 ~ 1.10">
       <created>1671718320838</created>
@@ -138,7 +129,28 @@
       <option name="project" value="LOCAL" />
       <updated>1671801849716</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="baejoon 3.1-3.4">
+      <created>1671971291328</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671971291328</updated>
+    </task>
+    <task id="LOCAL-00005" summary="baejoon 3.5 yet&#10;buffer사용을 할 수 있는데 배열이랑 같이 쓰는 법을 아직 모르겠음">
+      <created>1672051505926</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672051505926</updated>
+    </task>
+    <task id="LOCAL-00006" summary="baejoon #10699">
+      <created>1672052316596</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672052316596</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +172,8 @@
     <MESSAGE value="baejoon 1.11-1.14&#10;input,output and FAO all clear!" />
     <MESSAGE value="baejoon 2.1-2.7&#10;conditional statement all clear!" />
     <MESSAGE value="baejoon 3.1-3.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="baejoon 3.1-3.4" />
+    <MESSAGE value="baejoon 3.5 yet&#10;buffer사용을 할 수 있는데 배열이랑 같이 쓰는 법을 아직 모르겠음" />
+    <MESSAGE value="baejoon #10699" />
+    <option name="LAST_COMMIT_MESSAGE" value="baejoon #10699" />
   </component>
 </project>
