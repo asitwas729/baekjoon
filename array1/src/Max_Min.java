@@ -10,11 +10,11 @@ public class Max_Min {
     }
     int Max = arr[0];
     int Min = arr[0];
-    for(int i = 0; i < arr.length; i++){
-      if(Max < arr[i]){
-        Max = arr[i];
-      } else if(Min > arr[i]){
-        Min = arr[i];
+    for (int j : arr) {
+      if (Max < j) {
+        Max = j;
+      } else if (Min > j) {
+        Min = j;
       }
     }
     System.out.println(Min + " " + Max);
