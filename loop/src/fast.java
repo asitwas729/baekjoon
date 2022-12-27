@@ -1,23 +1,23 @@
 import java.io.*;
-import java.util.StringTokenizer;
 
 public class fast {
   public static void main(String[] args){
     BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
     BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-    StringTokenizer st = null;
+
 
     try {
       int T = Integer.parseInt(bf.readLine());
       for(int i = 0; i < T; i++){
-        st = new StringTokenizer(bf.readLine());
+        String s = bf.readLine();
+        int a = Integer.parseInt(s.split(" ")[0]);
+        int b = Integer.parseInt(s.split(" ")[1]);
+        bw.write(a+b+"\n");
       }
-      for(int i = 0; i < T; i++){
-        bw.write(Integer.parseInt(st.nextToken()) + Integer.parseInt(st.nextToken()));
-        bw.close();
-      }
+      bw.flush();
     } catch (IOException e) {
       throw new RuntimeException(e);
     }
+
   }
 }
