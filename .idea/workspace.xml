@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="441022a0-97b7-4ae2-a704-2749f69d537a" name="변경" comment="baejoon #10952">
+    <list default="true" id="441022a0-97b7-4ae2-a704-2749f69d537a" name="변경" comment="baejoon #5597 not clear&#10;숫자 찾는 방법이 이해되지않음">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sprout/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sprout/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sprout/modulus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sprout/modulus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop/src/fast.java" beforeDir="false" afterPath="$PROJECT_DIR$/loop/src/fast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loop/fast.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loop/fast.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +108,9 @@
       <workItem from="1671805278895" duration="595000" />
       <workItem from="1671874054856" duration="3589000" />
       <workItem from="1671877688346" duration="132000" />
-      <workItem from="1671877837084" duration="15680000" />
+      <workItem from="1671877837084" duration="20654000" />
+      <workItem from="1672137831820" duration="1710000" />
+      <workItem from="1672139564479" duration="275000" />
     </task>
     <task id="LOCAL-00001" summary="baejoon 1.1 ~ 1.10">
       <created>1671718320838</created>
@@ -200,7 +203,42 @@
       <option name="project" value="LOCAL" />
       <updated>1672056769273</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="baejoon #2438">
+      <created>1672057236772</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1672057236772</updated>
+    </task>
+    <task id="LOCAL-00015" summary="baejoon Update">
+      <created>1672057251275</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1672057251275</updated>
+    </task>
+    <task id="LOCAL-00016" summary="baejoon #10871">
+      <created>1672058891221</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1672058891221</updated>
+    </task>
+    <task id="LOCAL-00017" summary="baejoon #10807">
+      <created>1672059277316</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1672059277316</updated>
+    </task>
+    <task id="LOCAL-00018" summary="baejoon #5597 not clear&#10;숫자 찾는 방법이 이해되지않음">
+      <created>1672059684292</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1672059684292</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,12 +263,16 @@
     <MESSAGE value="baejoon 3.5 yet&#10;buffer사용을 할 수 있는데 배열이랑 같이 쓰는 법을 아직 모르겠음" />
     <MESSAGE value="baejoon #10699" />
     <MESSAGE value="baejoon #7287" />
-    <MESSAGE value="baejoon Update" />
     <MESSAGE value="baejoon #11382" />
     <MESSAGE value="baejoon #2420" />
     <MESSAGE value="baejoon #2741" />
     <MESSAGE value="baejoon #10872" />
     <MESSAGE value="baejoon #10952" />
-    <option name="LAST_COMMIT_MESSAGE" value="baejoon #10952" />
+    <MESSAGE value="baejoon #2438" />
+    <MESSAGE value="baejoon Update" />
+    <MESSAGE value="baejoon #10871" />
+    <MESSAGE value="baejoon #10807" />
+    <MESSAGE value="baejoon #5597 not clear&#10;숫자 찾는 방법이 이해되지않음" />
+    <option name="LAST_COMMIT_MESSAGE" value="baejoon #5597 not clear&#10;숫자 찾는 방법이 이해되지않음" />
   </component>
 </project>
