@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="441022a0-97b7-4ae2-a704-2749f69d537a" name="변경" comment="baejoon #10818">
+    <list default="true" id="441022a0-97b7-4ae2-a704-2749f69d537a" name="변경" comment="baejoon #10951">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array1/src/Max_Min.java" beforeDir="false" afterPath="$PROJECT_DIR$/array1/src/Max_Min.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/src/fast.java" beforeDir="false" afterPath="$PROJECT_DIR$/loop/src/fast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/array1/Max_Min.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/array1/Max_Min.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +107,8 @@
       <workItem from="1671877688346" duration="132000" />
       <workItem from="1671877837084" duration="20654000" />
       <workItem from="1672137831820" duration="1710000" />
-      <workItem from="1672139564479" duration="1648000" />
+      <workItem from="1672139564479" duration="3231000" />
+      <workItem from="1672307627162" duration="2395000" />
     </task>
     <task id="LOCAL-00001" summary="baejoon 1.1 ~ 1.10">
       <created>1671718320838</created>
@@ -259,7 +257,28 @@
       <option name="project" value="LOCAL" />
       <updated>1672140470134</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="baejoon #15552&#10;출력되는 부분이 이해가 안됨...,">
+      <created>1672141349557</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1672141349557</updated>
+    </task>
+    <task id="LOCAL-00023" summary="baejoon Update">
+      <created>1672141363421</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1672141363421</updated>
+    </task>
+    <task id="LOCAL-00024" summary="baejoon #10951">
+      <created>1672142635480</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1672142635480</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,8 +313,10 @@
     <MESSAGE value="baejoon #10807" />
     <MESSAGE value="baejoon #5597 not clear&#10;숫자 찾는 방법이 이해되지않음" />
     <MESSAGE value="baejoon #2562" />
-    <MESSAGE value="baejoon Update" />
     <MESSAGE value="baejoon #10818" />
-    <option name="LAST_COMMIT_MESSAGE" value="baejoon #10818" />
+    <MESSAGE value="baejoon #15552&#10;출력되는 부분이 이해가 안됨...," />
+    <MESSAGE value="baejoon Update" />
+    <MESSAGE value="baejoon #10951" />
+    <option name="LAST_COMMIT_MESSAGE" value="baejoon #10951" />
   </component>
 </project>
